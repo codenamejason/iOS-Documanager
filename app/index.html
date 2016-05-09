@@ -13,8 +13,19 @@
 	<script src="scripts/app.js"></script>
 </head>
 <body>
-	<div data-role="view">
-
-	</div>
+	<div data-role="view" data-title="Photo Smash" data-model="listview">
+        <div data-role="navbar">
+            <span data-role="view-title"></span>
+            <button data-role="button" data-align="right" data-bind="click: addImage">
+                Add
+            </button>
+            <button data-role="button" data-align="right" data-bind="click: deleteImage">
+                Delete
+            </button>
+        </div>
+        <ul id="images"></ul>
+      </div>
+    
+    
 </body>
 </html>

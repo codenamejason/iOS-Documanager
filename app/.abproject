@@ -76,5 +76,7 @@
   "IsRunnable": "true",
   "ProjectGuid": "{ba2629ab-865f-4193-9b5a-f1da14946d6f}",
   "WP8PublisherID": "{5e9a20dc-9a6e-4951-b773-084f56faef48}",
-  "WP8ProductID": "{0613d0fb-0d00-4726-87f3-061cd7e44eab}"
+  "WP8ProductID": "{0613d0fb-0d00-4726-87f3-061cd7e44eab}",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8PackageIdentityName": "1234Telerik.com.telerik.photoalbum"
 }
